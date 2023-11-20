@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/dialog_shape.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_back.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_close.xml" value="0.36041666666666666" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_code.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_compile.xml" value="0.3578125" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_contacts.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_copy.xml" value="0.3578125" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_delete.xml" value="0.3578125" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_detete_small.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21822916666666667" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_link.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_location.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_mail.xml" value="0.21822916666666667" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_note.xml" value="0.21822916666666667" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_ok.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_open.xml" value="0.2078125" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_pen.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_phone.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_photo.xml" value="0.36041666666666666" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_scans.xml" value="0.3315068493150685" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_search.xml" value="0.3578125" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/ic_textsvg.xml" value="0.21979166666666666" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/shape.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/txt_shape.xml" value="0.3723076923076923" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/drawable/type_shape.xml" value="0.3315068493150685" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/act_create.xml" value="0.27898550724637683" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/act_edit.xml" value="0.27898550724637683" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/act_main.xml" value="0.28442028985507245" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/act_result.xml" value="0.33" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/create_item.xml" value="0.27898550724637683" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/dialog.xml" value="0.27898550724637683" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/dialog_loading.xml" value="0.27898550724637683" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/dialog_type.xml" value="0.27898550724637683" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/fragment_camera.xml" value="0.2907608695652174" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/fragment_history.xml" value="0.27898550724637683" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/fragment_sensor.xml" value="0.25" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/fragment_speak.xml" value="0.19010416666666666" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/layout/history_item.xml" value="0.33" />
+        <entry key="..\:/code/Za/scan/app/src/main/res/menu/navigation_items.xml" value="0.3296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
